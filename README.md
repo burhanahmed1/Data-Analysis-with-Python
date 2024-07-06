@@ -58,7 +58,7 @@ The datasets used in this repository are included in the respective folders:
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/machine-learning-analysis.git
+git clone https://github.com/burhanahmed1/machine-learning-analysis.git
 cd machine-learning-analysis
 ```
 2. Run Jupyter Notebook:
